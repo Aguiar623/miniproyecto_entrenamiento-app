@@ -1,0 +1,55 @@
+# Flutter/Dart
+.dart_tool/
+.packages
+.pub-cache/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+.idea/
+.vscode/
+*.iml
+
+# Android
+.gradle/
+local.properties
+**/build/
+.cxx/
+captures/
+.externalNativeBuild/
+*.log
+*.lock
+*.tmp
+*.hprof
+
+# Android Studio
+*.apk
+*.ap_
+*.aab
+*.keystore
+
+# IntelliJ
+*.ipr
+*.iws
+*.iml
+
+# VS Code
+.vscode/
+
+# MacOS
+.DS_Store
+
+# Linux
+*.swp
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Caches
+caches/
+daemon/
+.wrapper/
+**/caches/
+**/modules-2/
+
