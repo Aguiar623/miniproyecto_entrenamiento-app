@@ -40,13 +40,14 @@ cd miniproyecto_entrenamiento-app
 o de manera manual descargando el zip y Descomprimir y abrir la carpeta entrenamiento_app desde android studio ( revisar que en la carpeta no halla subcarpetas entrenamiento_app ) debe queda entrenamiento_app -> archivos del proyecto y no entrenamiento_app -> entrenamiento_app -> archivos del proyecto
 
 3.3)Instalar dependencias
-Ejecutar en la raíz del proyecto:
+Ejecutar en la raíz del proyecto o consola (Alt+f12):
 flutter pub get
 
 3.4)Conectar un dispositivo o abrir un emulador
 
-3.5)Ejecutar la aplicación
+3.5)Ejecutar la aplicación con comando
 flutter run
+o de manera manual en la parte superior en el triangulo verde |>
 
 3.6)Para evitar problemas con carpetas temporales es necesario abrir el proyecto en android studio desde open y escojer la carpeta entrenamiento_app 
 despues se ejecutan los comandos en consola( recordar instalar flutter sdk y activar los complementos flutter y dart en el ide): 
