@@ -49,16 +49,13 @@ flutter pub get
 flutter run
 o de manera manual en la parte superior en el triangulo verde |>
 
-3.6)Para evitar problemas con carpetas temporales es necesario abrir el proyecto en android studio desde open y escojer la carpeta entrenamiento_app 
-despues se ejecutan los comandos en consola( recordar instalar flutter sdk y activar los complementos flutter y dart en el ide): 
-
-3.6.1) flutter clean,
+3.6.1) si ahi problemas con archivos temporales en la consola ejecutar los comandos flutter clean,
 flutter pub get  , se actualizara y creara de nuevo los archivos temporales
 
 de esta manera queda listo para compilar con:
 3.6.2) Flutter run
 
-Todos los archivos del proyecto estan en la carpeta LIB , si no salen estos archivos en la parte izquierda superior debe salir el nombre de projects , si sale android
-undirle click y cambiarla a project o projects donde estan los archivos del codigo 
+Todos los archivos del proyecto estan en la carpeta LIB , si no salen estos archivos en la parte izquierda, en la parte superior izquierda debe salir el nombre de projects , si sale android
+undirle click y cambiarla a project donde estan los archivos del codigo raiz
 
 
